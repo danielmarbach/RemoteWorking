@@ -1,4 +1,4 @@
-# One company, 50 people and 17 time zones
+# One company, 45 people and 15 time zones
 
 Please read the [LICENSE.md](License) agreement
 
